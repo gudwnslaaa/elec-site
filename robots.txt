@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://도메인주소/sitemap.xml
+Sitemap: https://elec-site.gudwnslaaa.workers.dev/sitemap.xml
